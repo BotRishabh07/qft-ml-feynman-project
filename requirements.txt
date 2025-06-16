@@ -1,0 +1,12 @@
+numpy
+scipy
+sympy
+matplotlib
+pandas
+scikit-learn
+torch
+torchvision
+torch-geometric
+networkx
+ipykernel
+seaborn
